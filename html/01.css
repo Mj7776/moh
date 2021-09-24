@@ -1,0 +1,98 @@
+#imglandan{
+    background-image: url("landan.jpg");
+    width: 1000px;
+    height: 500px;
+    margin-left: 150px;
+    margin-right: 100px;
+    margin-top: 10px;
+    border: blue 1px solid;
+    border-radius:9px
+}
+.a{
+    width: 60px;
+    color: black;
+    background-color: red;
+    margin-right: 700px;
+    margin-left: 700px;
+    margin-top: 1px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    
+
+}
+.b
+{
+    width: 50px;
+    color: black;
+    background-color: rgb(248, 9, 9);
+    margin-right: 500px;
+    margin-left: 550px;
+    margin-top: -37px;
+    border: black solid 2px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.head{
+    color: black;
+    margin-left: 400px;
+    margin-right: 300px;
+    margin-top: 10px;
+    text-transform: capitalize;
+    font-style: italic;
+    font-size: 30px;
+
+}
+.form{
+    width: 350px;
+    margin-right: 550px;
+    margin-left: 500px;
+    border: black 4px double;
+    text-transform:  capitalize;
+    border-radius:10px;
+
+}
+.instagram{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.text{
+    margin-left: 80px;
+    margin-right: 400px;
+}
+.input{
+    width: 230px;
+    height: 23px;
+    margin-left: 80px;
+    margin-right: 400px;
+}
+.html{
+    border: 4px black double;
+    
+}
+a:active{
+    color:white;
+    
+}
+ul{
+    list-style-type: initial;
+}
+.manwoman{
+    width: 30px;
+}
+.select{
+    width: 200px;
+    height: 24px;
+}
+#reset{
+    margin-left: 4px;
+    background-color: rgb(94, 141, 211);
+    border-radius: 7px;
+    padding: 5px;
+}
+#submit{
+    margin-left: 2px;
+    background-color: rgb(94, 141, 211);
+    border-radius: 7px;
+    padding: 5px;
+}
